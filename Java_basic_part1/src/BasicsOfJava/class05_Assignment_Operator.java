@@ -25,20 +25,34 @@ public class Class05_Assignment_Operator {
 		n = input.nextInt();
 		
 		System.out.println("n = "+n);
-		
-		
-		
-		n+=m;		
+
+
+
+		n+=m;
 		System.out.println("n+=m; = "+n);
-		
-		n-=m;		
+
+		System.out.println("n = " + n);
+		System.out.println("m = " + m);
+
+
+		n-=m;
 		System.out.println("n-=m; = "+n);
-		
-		n*=m;		
+
+		System.out.println("n = " + n);
+		System.out.println("m = " + m);
+
+		n*=m;
 		System.out.println("n*=m; = "+n);
-		
-		n/=m;		
+
+		System.out.println("n = " + n);
+		System.out.println("m = " + m);
+
+		n/=m;
 		System.out.println("n/=m; = "+n);
+
+		System.out.println("n = " + n);
+		System.out.println("m = " + m);
+
 
 	}
 }
