@@ -2,7 +2,7 @@ package BasicsOfJava;
 
 import java.util.Scanner;
 
-public class class05_Assignment_Operator {
+public class Class05_Assignment_Operator {
 	private static Scanner input;
 
 	public static void main(String[] args) {
