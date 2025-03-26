@@ -1,7 +1,7 @@
 package BasicsOfJava;
 
 
-public class Class02_print_println_commenting_escapeSequence{
+public class Class02_P1_print_println_commenting_escapeSequence {
 
     public static void main(String[] args) {
    	 
