@@ -21,8 +21,8 @@ public class Class05_Assignment_Operator {
 			%=			Modulus and assign		a %= b → a = 0				a = a % b
 
 		 */
-
-
+		
+		
 		input = new Scanner(System.in);
 		
 		System.out.print("input the valure of m :");
@@ -38,34 +38,33 @@ public class Class05_Assignment_Operator {
 		n = input.nextInt();
 		
 		System.out.println("n = "+n);
-
-
-
-		n+=m;
+		
+		
+		
+		n+=m;		
 		System.out.println("n+=m; = "+n);
 
 		System.out.println("n = " + n);
 		System.out.println("m = " + m);
 
-
-		n-=m;
+		
+		n-=m;		
 		System.out.println("n-=m; = "+n);
 
 		System.out.println("n = " + n);
 		System.out.println("m = " + m);
-
-		n*=m;
+		
+		n*=m;		
 		System.out.println("n*=m; = "+n);
 
 		System.out.println("n = " + n);
 		System.out.println("m = " + m);
-
-		n/=m;
+		
+		n/=m;		
 		System.out.println("n/=m; = "+n);
 
 		System.out.println("n = " + n);
 		System.out.println("m = " + m);
-
 
 	}
 }
