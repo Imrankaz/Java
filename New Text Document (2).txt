@@ -1,1 +1,2 @@
 hello
+it's java basic program
