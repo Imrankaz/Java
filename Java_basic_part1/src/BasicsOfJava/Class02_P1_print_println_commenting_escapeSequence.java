@@ -13,7 +13,7 @@ public class Class02_P1_print_println_commenting_escapeSequence {
 		//--------------------------------------------------------------------------------------------------------
 		 System.out.print("******\n");
 		 System.out.print(" line1 \n line2 \n line3 \n");       // "\n" = new line
-		 System.out.print("line1 \\n line2 \\n line3 \\n \n");  // “\n” print
+		 System.out.print("line1 \\n line2 \\n line3 \\n \n");  // ?\n? print
 		 System.out.println("line1 \t line2 \t line3 \t");         // "\t" = tab space; 1tab =4 spaces
 
 

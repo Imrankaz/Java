@@ -11,6 +11,14 @@ public class Class13_3_Series_for_Loop {
         System.out.println("for loop syntax : ");
         System.out.println("for(initialization, condition, increment / decrement){\n          statements(s); \n }");
         System.out.println("-------------------------------------------------------");
+        System.out.println("while loop syntax : ");
+        System.out.println("-------------------------------------------------------");
+        System.out.println(" initialization \n while(condition){  \n      statements(s); \n      increment/decrement; \n }");
+        System.out.println("-------------------------------------------------------");
+        System.out.println("do-while loop syntax : ");
+        System.out.println("-------------------------------------------------------");
+        System.out.println(" initialization \n do{  \n      statements(s); \n      increment/decrement; \n } while(condition)   \n");
+        System.out.println("-------------------------------------------------------");
 
         int n, sum;
         Scanner input = new Scanner(System.in);

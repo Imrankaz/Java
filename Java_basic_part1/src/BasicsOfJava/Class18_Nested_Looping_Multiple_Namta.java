@@ -16,8 +16,9 @@ public class Class18_Nested_Looping_Multiple_Namta {
 		
 		System.out.println("input Ending digit: ");
 		n = input.nextInt();
-		
-		if(m>n) {			//Swapping, if anyone input large no. first and small no. at last.
+		//here m=small, n=large
+
+		if(m>n) {			//Swapping, if anyone input large no. first(m) and small no. at last(n).
 			int t=m;
 			m=n;
 			n=t;
