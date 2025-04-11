@@ -13,7 +13,7 @@ public class Class05_Assignment_Operator {
 		List of Assignment Operators:
 
 			Operator	Description				Example (a = 10, b = 5)		Equivalent To
-			=			Assign value			a = b → a = 5				—
+			=			Assign value			a = b  → a = 5				—
 			+=			Add and assign			a += b → a = 15				a = a + b
 			-=			Subtract and assign		a -= b → a = 5				a = a - b
 			*=			Multiply and assign		a *= b → a = 50				a = a * b
