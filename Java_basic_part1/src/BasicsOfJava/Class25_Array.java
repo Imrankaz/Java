@@ -1,5 +1,8 @@
 package BasicsOfJava;
 
+import java.lang.reflect.Array;
+import java.util.Arrays;
+
 public class Class25_Array {
 
 	public static void main(String[] args)
@@ -32,8 +35,21 @@ public class Class25_Array {
 			
 		}
 		System.out.println("Summation of num2 is: "+sum2);
-		
-		
+
+
+
+
+		System.out.println("/n********************/n");
+
+		int [] num3 = {10,20,40,50,30,80,70,90,60,100,-60};
+		Arrays.sort(num3);
+		System.out.println(num3 + "showiwng wwrong value, because array will show values indexwise");
+
+		System.out.println("After Ascending num3 values are: " );
+		for(int x : num3)   //foreach loop
+		{
+			System.out.println(x);
+		}
 	}
 }
 
