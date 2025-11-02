@@ -5,9 +5,11 @@ public class Class27_String_forloop_forEachloop_Assending_Dessending_length_equa
 	private static Scanner input;
 	public static void main(String[] args)
 	{
+		System.out.println("/n********************/n");
 		System.out.println("Class27_String_forloop_forEachloop_Assending_Dessending_length_equals_equalsIgnoreCase_contains_Empty_Addition_concat_trim_charAt_codePointAt_indexOf_lastIndexOf_lastIndexOf_replace_split_StringBuffer_StringBound_append_reverse_delete_setLength");
-		System.out.println("String inputting,for loop, for each loop, Assending, Dessending, \n	s1.length();  s2.equals(s3)    s1.equalsIgnoreCase(s2)    s1.contains(\\\"hel\\\")    isEmpty(); \n	String Addition  =>  concat();	\n	str.trim();    str.charAt(3);	str.codePointAt(4); 	\n	str.indexOf('s'); 	str.lastIndexOf('s'); 	str.replace('i','z');	str2.split(\\\" \\\");	\n	String Buffer , String Bound, sb.append(),  sb.reverse();  sb.delete(0, 10);	setLength(10); ");
-		
+		System.out.println("/n********************/n");
+		System.out.println("	String inputting,	for loop,	for each loop,	Assending,	Dessending, \n	s1.length();  s2.equals(s3)    s1.equalsIgnoreCase(s2)    s1.contains(\\\"hel\\\")    isEmpty(); \n	String Addition  =>  concat();	\n	str.trim();    str.charAt(3);	str.codePointAt(4); 	\n	str.indexOf('s'); 	str.lastIndexOf('s'); 	str.replace('i','z');	str2.split(\\\" \\\");	\n	String Buffer , String Bound, sb.append(),  sb.reverse();  sb.delete(0, 10);	setLength(10); ");
+		System.out.println("/n********************/n");
 		System.out.println("using Switch Case");
 		input = new Scanner(System.in);
 		
