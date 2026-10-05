@@ -1,6 +1,6 @@
 package BasicsOfJava;
 
-public class c {
+public class Class27_2_String2 {
     public static void main(String[] args) {
         String S1 = "Asdfjk klsdjfklsd ds 3434";
         String S2 = new String("ggsdfjk Fklsdjfklsd ds 7567");
