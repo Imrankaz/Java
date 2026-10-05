@@ -1,8 +1,9 @@
 package BasicOOP;
 
 public class Class51_1_Teacher {
-    String name, gender; //variable
-    int phone;  //variable
+    String name, gender; //variable // Instance variable
+    int phone;  //variable // Instance variable
+    //static String University2 = "JU"; // static or class variable // for static values, can call by using only class name
 
     //non parameterized method or default method
     void displayInformation1()
@@ -22,7 +23,8 @@ public class Class51_1_Teacher {
     }
     void setInformation2(String n, String g, int ph)
     {
-        name = n;
+        //Local variable >String n, String g, int ph > n, g, ph
+        name = n; //Local variable initialization
         gender = g;
         phone = ph;
         System.out.println();
